@@ -47,7 +47,7 @@ function user() {
  * @apiSuccess {String} firstname Firstname of the User.
  * @apiSuccess {String} lastname  Lastname of the User.
  * 
- * @apiSuccessExample [{type}] [title]
+ * @apiSuccessExample json JSON example
  * {
  *     test: 'test',
  *     abc: {
