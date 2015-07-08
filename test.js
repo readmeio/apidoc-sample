@@ -46,6 +46,14 @@ function user() {
  *
  * @apiSuccess {String} firstname Firstname of the User.
  * @apiSuccess {String} lastname  Lastname of the User.
+ * 
+ * @apiSuccessExample [{type}] [title]
+ * {
+ *     test: 'test',
+ *     abc: {
+ *       'hi': 1
+ *     }
+ * }
  */
 
 function user() {
