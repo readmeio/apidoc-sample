@@ -2,7 +2,7 @@
  * @api {get} /user/:id Request User information
  * @apiGroup GetUser
  *
- * @apiParam {Number} id Users unique ID.
+ * @apiParam {Number} [id] Users unique ID.
  *
  * @apiSuccess {String} [firstname] Firstname of the User.
  * @apiSuccess {String} lastname  Lastname of the User.
